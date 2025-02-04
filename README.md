@@ -1,1 +1,3 @@
-# TestProject
+# TestProject - REST API
+
+# Getting started
