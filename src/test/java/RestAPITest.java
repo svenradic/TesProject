@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
-public class FirstTest {
+public class RestAPITest {
     final static String ROOT_URI = "http://localhost:7000/employees";
 
     @Test
